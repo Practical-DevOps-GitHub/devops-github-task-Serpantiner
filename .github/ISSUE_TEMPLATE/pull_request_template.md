@@ -1,7 +1,7 @@
 ---
-name: pull_request_template.md
-about: Issue ticket number and link
-title: Describe your changes
+name: pull_request_template
+about: Tiket issues
+title: ''
 labels: ''
 assignees: ''
 
